@@ -4,5 +4,5 @@ This is the origin [Medium artical](https://medium.com/@thanhdatvo/consider-go-f
 ### How to run
 1. install [Golang](https://golang.org/doc/install) version > 1.11
 2. install [Air](https://github.com/cosmtrek/air) 
-3. run the projectby this command  
+3. run the project by this command  
 ```air ```  
